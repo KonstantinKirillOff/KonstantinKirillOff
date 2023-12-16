@@ -1,16 +1,30 @@
-### Hi there 👋
+# Привет, меня зовут Константин!
 
-<!--
-**KonstantinKirillOff/KonstantinKirillOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я  IOS разработчик, который искренне любит то, чем занимается. 
+Вот некоторые факты обо мне:
 
-Here are some ideas to get you started:
+- 🔭 Сейчас я работаю над своим pet проектом. Это мобильное приложение [по изучению английского в дороге](https://github.com/KonstantinKirillOff/Eng2Go_UiKit)
+- 🌱 Активно изучаю реактивное програмирование (RxSwift & Combine). 
+- 💼 Очень хочу поработать в продуктах связанных с путешествиями или здоровым образом жизни.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+[Fake NFT](https://github.com/KonstantinKirillOff/FakeNFT) - здесь мы командно трудились над моковым NFT маркетом. Была активная работа с API и верстка кодом <br>
+[TrackMe](https://github.com/KonstantinKirillOff/TrackMe) - здесь я активно использовал коллекции и работу с базами данных <br>
+[Image feed](https://github.com/KonstantinKirillOff/ImageFeed) - здесь я работал c таблицами и oAuth 2.0 авторизацией Unsplash <br>
+[Movie quiz](https://github.com/KonstantinKirillOff/MovieQuiz-ios) - здесь активно работал с API IMDB, верстал на сторибордах
+
+## Мои навыки
+- Языки программирования: Swift (2); 1C(>8); JavaScript(1)
+- API/Frameworks: UIKit, SwiftUI, RxSwift, SnapKit, Alamofire, GCD
+- Databases: CoreData, Realm, SQL, PostgreSQL
+- Архитектуры: MVVM, MVP, MVC
+- Технологии: REST API, SOLID, RabbitMQ, oAuth 2.0
+- Менеджеры зависимости: CocoaPods, SwiftPM
+- Тестирование: Unit, UI тесты, SnapShot тесты;
+- Командная работа: Jira, SCRUM, GIT
+  
+## Свяжитесь со мной
+- Email: kirilloffkostya@gmail.com
+- tg: Kirill_Off
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinKirillOff&show_icons=true)
