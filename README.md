@@ -14,11 +14,11 @@
 [Movie quiz](https://github.com/KonstantinKirillOff/MovieQuiz-ios) - здесь активно работал с API IMDB, верстал на сторибордах
 
 ## Мои навыки
-- Языки программирования: Swift (2); 1C(>8); JavaScript(1)
+- Языки программирования: Swift (>2); 1C(>8); JavaScript(1)
 - API/Frameworks: UIKit, SwiftUI, RxSwift, SnapKit, Alamofire, GCD
-- Databases: CoreData, Realm, SQL, PostgreSQL
+- Databases: CoreData, SQL, PostgreSQL
 - Архитектуры: MVVM, MVP, MVC
-- Технологии: REST API, SOLID, RabbitMQ, oAuth 2.0
+- Технологии: Kotlin Multiplatform, REST API, SOLID, RabbitMQ, oAuth 2.0
 - Менеджеры зависимости: CocoaPods, SwiftPM
 - Тестирование: Unit, UI тесты, SnapShot тесты;
 - Командная работа: Jira, SCRUM, GIT
